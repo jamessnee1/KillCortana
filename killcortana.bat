@@ -1,0 +1,1 @@
+python killcortana.py
